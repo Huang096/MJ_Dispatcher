@@ -1,0 +1,23 @@
+{
+  "name": "mj_dispatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huang096/MJ_Dispatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huang096/MJ_Dispatcher/issues"
+  },
+  "homepage": "https://github.com/Huang096/MJ_Dispatcher#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
